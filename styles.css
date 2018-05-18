@@ -1,0 +1,29 @@
+p{
+    color:rgb(0, 255, 213);
+}
+h1{
+    color:red;
+}
+p1{
+    color:#FFFF00;
+}
+h2{
+    color:#00FF00;
+}
+
+#block{
+    width:300px;
+    background-color: black;
+}
+
+#block1{
+    background-color: blue;
+}
+
+#block2{
+    background-color: blue
+}
+
+#block3{
+    background-color: black
+}
