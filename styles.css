@@ -1,14 +1,18 @@
 p{
     color:rgb(0, 255, 213);
+    font-family:Microsoft JhengHei;
 }
 h1{
     color:red;
+    font-family:DFKai-sb;
 }
 p1{
     color:#FFFF00;
+    font-family:Microsoft JhengHei;
 }
 h2{
     color:#00FF00;
+    font-family:DFKai-sb;
 }
 
 #block{
@@ -17,13 +21,21 @@ h2{
 }
 
 #block1{
-    background-color: blue;
+    background-color: black;
+    border: 0.3rem dashed red;
+    padding: 0.5em;
+    margin: 0.3em
 }
 
 #block2{
-    background-color: blue
+    background-color: black;
+    border: 0.3rem dashed red;
+    padding: 0.5em;
+    margin: 0.3em
 }
 
 #block3{
-    background-color: black
+    background-color: black;
+    border: 0.3rem dashed red;
+    margin: 0.3em
 }
